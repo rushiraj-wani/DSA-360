@@ -1,0 +1,5 @@
+***** Basics of Static and Dynamic Arrays(1D & 2D) *****
+-> Static arrays have a fixed size defined at compile time and are stored in contiguous memory, making them fast but inflexible.
+-> Dynamic arrays can grow or shrink at runtime, allowing more flexibility in handling varying data sizes, though they may incur extra overhead during resizing operations.
+
+***** 
